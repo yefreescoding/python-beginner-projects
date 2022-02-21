@@ -1,0 +1,5 @@
+Requirements to code and run this code in terminal:
+
+_Python 3.9 or later.
+_Visual Studio Code.
+_PIP 22.0.3
